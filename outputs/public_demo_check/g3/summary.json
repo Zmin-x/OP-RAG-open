@@ -1,0 +1,14 @@
+{
+  "mode": "g3",
+  "n_cases": 4,
+  "formula_kb_support_rate": 1.0,
+  "primary_syndrome_mapping_rate": 1.0,
+  "mean_herb_jaccard": 0.96875,
+  "mean_core_herb_mechanism_coverage": 0.9166666666666666,
+  "mean_mechanism_coverage_over_reference_herbs": 0.96875,
+  "formula_syndrome_consistency_rate_primary": null,
+  "formula_syndrome_consistency_rate_any": null,
+  "chain_closed_any_rate": null,
+  "chain_closed_core60_rate": null,
+  "chain_closed_strict_rate": null
+}

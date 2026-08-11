@@ -1,0 +1,5 @@
+case_id,mode,formula_kb_status,primary_syndrome_id,herb_jaccard,core_herb_mechanism_coverage,mechanism_coverage_over_reference_herbs,formula_consistent_with_primary,formula_consistent_with_any_syndrome,chain_closed_any,chain_closed_core60,chain_closed_strict
+demo_001,g4,mapped,S1,1.0,1.0,1.0,True,True,True,True,True
+demo_002,g4,mapped,S2,1.0,1.0,1.0,True,True,True,True,True
+demo_003,g4,mapped,S3,0.875,0.6666666666666666,0.875,True,True,True,True,False
+demo_004,g4,mapped,S4,1.0,1.0,1.0,True,True,True,True,True

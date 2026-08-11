@@ -1,0 +1,13 @@
+name: op-rag-open
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.6
+  - pip
+  - pip:
+      - numpy==2.4.4
+      - pandas==3.0.3
+      - scikit-learn==1.8.0
+      - matplotlib==3.10.9
+      - requests==2.33.1
+      - python-dotenv==1.2.2
