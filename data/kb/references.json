@@ -1,0 +1,209 @@
+[
+  {
+    "reference_id": "REF001",
+    "original_number": 1,
+    "citation": "林燕平, 黄佳纯, 郭海威, 等. 原发性骨质疏松症患者中医证型分布规律与肌-骨-脂关系研究[J/OL]. 中国全科医学, 1-6[2026-05-11].",
+    "year": 2026,
+    "source_type": "clinical_study",
+    "url": "https://link.cnki.net/urlid/13.1222.r.20250528.1549.004",
+    "doi": null
+  },
+  {
+    "reference_id": "REF002",
+    "original_number": 2,
+    "citation": "李超, 张贤, 马勇, 等. 补髓丹治疗骨质疏松症肾阳虚证的随机对照临床试验[J]. 中医正骨, 2024, 36(12): 24-31+54.",
+    "year": 2024,
+    "source_type": "randomized_controlled_trial",
+    "url": null,
+    "doi": null
+  },
+  {
+    "reference_id": "REF003",
+    "original_number": 3,
+    "citation": "张文伟, 李可大, 邰东旭. 基于肝肾阴虚论治原发性骨质疏松症[J]. 光明中医, 2024, 39(16): 3365-3368.",
+    "year": 2024,
+    "source_type": "theoretical_discussion",
+    "url": null,
+    "doi": null
+  },
+  {
+    "reference_id": "REF004",
+    "original_number": 4,
+    "citation": "奚小冰, 颜威, 李中伟, 等. 骨质疏松症海派中医临床诊疗专家共识[J]. 上海中医药杂志, 2024, 58(S1): 10-16.",
+    "year": 2024,
+    "source_type": "expert_consensus",
+    "url": null,
+    "doi": "10.16305/j.1007-1334.2024.03"
+  },
+  {
+    "reference_id": "REF005",
+    "original_number": 5,
+    "citation": "谢飞彪, 王晶, 向兴华, 等. 基于Bagging结合LASSO回归的规则集成方法对骨质疏松症患者肾阳虚证的辨识研究[J]. 中国实验方剂学杂志, 2023, 29(23): 150-157.",
+    "year": 2023,
+    "source_type": "syndrome_identification_study",
+    "url": null,
+    "doi": "10.13422/j.cnki.syfjx.20230449"
+  },
+  {
+    "reference_id": "REF006",
+    "original_number": 6,
+    "citation": "吴海龙, 常天瀛, 卢焱, 等. 原发性骨质疏松症中医证候分布频率的Meta分析[J]. 中国实验方剂学杂志, 2024, 30(05): 111-117.",
+    "year": 2024,
+    "source_type": "meta_analysis",
+    "url": null,
+    "doi": "10.13422/j.cnki.syfjx.20231150"
+  },
+  {
+    "reference_id": "REF007",
+    "original_number": 7,
+    "citation": "葛继荣, 王和鸣, 郑洪新, 等. 中医药防治原发性骨质疏松症专家共识(2020)[J]. 中国骨质疏松杂志, 2020, 26(12): 1717-1725.",
+    "year": 2020,
+    "source_type": "expert_consensus",
+    "url": null,
+    "doi": null
+  },
+  {
+    "reference_id": "REF008",
+    "original_number": 8,
+    "citation": "中国中西医结合学会骨伤科专业委员会. 骨质疏松症中西医结合诊疗指南[J]. 中华医学杂志, 2019, 99(45): 3524-3533.",
+    "year": 2019,
+    "source_type": "clinical_guideline",
+    "url": null,
+    "doi": null
+  },
+  {
+    "reference_id": "REF009",
+    "original_number": 23,
+    "citation": "Li, Wenxiong et al. Effect of Zuogui pill and Yougui pill on osteoporosis: a randomized controlled trial. Journal of Traditional Chinese Medicine, 2018, 38(1): 33-42.",
+    "year": 2018,
+    "source_type": "randomized_controlled_trial",
+    "url": null,
+    "doi": null
+  },
+  {
+    "reference_id": "REF010",
+    "original_number": 13,
+    "citation": "陈永华, 平佃辉, 陈学强, 等. 益肾强骨方治疗肾阳虚型骨质疏松症临床研究[J]. 新中医, 2023, 55(13): 98-103.",
+    "year": 2023,
+    "source_type": "clinical_controlled_study",
+    "url": null,
+    "doi": "10.13457/j.cnki.jncm.2023.13.018"
+  },
+  {
+    "reference_id": "REF011",
+    "original_number": 25,
+    "citation": "Ge, Ji-Rong et al. Liuwei Dihuang Pill Treats Postmenopausal Osteoporosis with Shen (Kidney) Yin Deficiency via Janus Kinase/Signal Transducer and Activator of Transcription Signal Pathway by Up-regulating Cardiotrophin-Like Cytokine Factor 1 Expression. Chinese Journal of Integrative Medicine, 2018, 24(6): 415-422.",
+    "year": 2018,
+    "source_type": "clinical_and_mechanism_study",
+    "url": null,
+    "doi": "10.1007/s11655-016-2744-2"
+  },
+  {
+    "reference_id": "REF012",
+    "original_number": 24,
+    "citation": "Liu, Yu et al. Liuwei Dihuang Decoction for primary osteoporosis: A protocol for a systematic review and meta-analysis. Medicine, 2019, 98(16): e15282.",
+    "year": 2019,
+    "source_type": "systematic_review_protocol",
+    "url": null,
+    "doi": "10.1097/MD.0000000000015282"
+  },
+  {
+    "reference_id": "REF013",
+    "original_number": 26,
+    "citation": "Liu, Tianpeng et al. Chinese medicine Gushukang capsule for treating primary osteoporosis: a systematic review and meta-analysis. Journal of Orthopaedic Surgery and Research, 2023, 18(1): 845.",
+    "year": 2023,
+    "source_type": "systematic_review_meta_analysis",
+    "url": null,
+    "doi": "10.1186/s13018-023-04264-9"
+  },
+  {
+    "reference_id": "REF014",
+    "original_number": 20,
+    "citation": "章联欢, 赵萍, 章宁杰, 等. 健脾补肾方对脾肾阳虚型亚临床甲减伴骨质疏松患者的临床疗效[J]. 中华全科医学, 2019, 17(02): 288-290+324.",
+    "year": 2019,
+    "source_type": "clinical_observational_study",
+    "url": null,
+    "doi": "10.16766/j.cnki.issn.1674-4152.000663"
+  },
+  {
+    "reference_id": "REF015",
+    "original_number": 1,
+    "citation": "颜春鲁, 石杨洋, 宋佳眙, 等. 藤黄健骨胶囊通过调控TNF-α/IL-6/JAK2/STAT3通路抑制肾虚血瘀型绝经后骨质疏松患者Th17细胞分化的机制研究[J]. 中国现代应用药学, 2025, 42(14): 2445-2452.",
+    "year": 2025,
+    "source_type": "clinical_and_mechanism_study",
+    "url": null,
+    "doi": "10.13748/j.cnki.issn1007-7693.20241603"
+  },
+  {
+    "reference_id": "REF016",
+    "original_number": 3,
+    "citation": "邓方玉, 邝高艳, 邝涛. 依降钙素联合藤黄健骨胶囊治疗骨质疏松症患者的疗效及对患者骨密度、骨代谢的影响[J]. 医学临床研究, 2025, 42(04): 564-566+570.",
+    "year": 2025,
+    "source_type": "clinical_study",
+    "url": null,
+    "doi": null
+  },
+  {
+    "reference_id": "REF017",
+    "original_number": 21,
+    "citation": "Chen, Jiaru et al. The Efficacy and Safety of Chinese Herbal Medicine Xianling Gubao Capsule Combined With Alendronate in the Treatment of Primary Osteoporosis: A Systematic Review and Meta-Analysis of 20 Randomized Controlled Trials. Frontiers in Pharmacology, 2021, 12: 695832.",
+    "year": 2021,
+    "source_type": "systematic_review_meta_analysis",
+    "url": null,
+    "doi": "10.3389/fphar.2021.695832"
+  },
+  {
+    "reference_id": "REF018",
+    "original_number": 22,
+    "citation": "Cheng, Bai-Ru et al. Chinese Proprietary Medicine Xianling Gubao Capsule for Osteoporosis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. Frontiers in Endocrinology, 2022, 13: 870277.",
+    "year": 2022,
+    "source_type": "systematic_review_meta_analysis",
+    "url": null,
+    "doi": "10.3389/fendo.2022.870277"
+  },
+  {
+    "reference_id": "REF019",
+    "original_number": 8,
+    "citation": "吴同明. 补肾活血汤治疗骨质疏松性胸腰椎压缩性骨折临床研究[J]. 中西医结合研究, 2024, 16(03): 164-168.",
+    "year": 2024,
+    "source_type": "clinical_controlled_study",
+    "url": null,
+    "doi": null
+  },
+  {
+    "reference_id": "REF020",
+    "original_number": 12,
+    "citation": "李东玲, 潘凯瑶, 潘梓珊, 等. 补肾健脾方治疗2型糖尿病合并骨质疏松症的临床观察[J]. 广州中医药大学学报, 2023, 40(10): 2465-2471.",
+    "year": 2023,
+    "source_type": "clinical_observational_study",
+    "url": null,
+    "doi": "10.13359/j.cnki.gzxbtcm.2023.10.008"
+  },
+  {
+    "reference_id": "REF021",
+    "original_number": 18,
+    "citation": "韩鹏勃, 于继岗. 加味身痛逐瘀汤对骨质疏松性疼痛患者的干预效应研究[J]. 辽宁中医杂志, 2019, 46(12): 2571-2573.",
+    "year": 2019,
+    "source_type": "clinical_study",
+    "url": null,
+    "doi": "10.13192/j.issn.1000-1719.2019.12.030"
+  },
+  {
+    "reference_id": "REF022",
+    "original_number": null,
+    "citation": "谢昌奋, 沈国雄, 陈斌. 桃红四物汤联合经皮椎体成形术治疗血虚夹瘀型老年骨质疏松性椎体压缩骨折临床观察[J]. 中国中医药现代远程教育, 2026, 24(5): 159-161.",
+    "year": 2026,
+    "source_type": "clinical_observational_study",
+    "url": null,
+    "doi": null
+  },
+  {
+    "reference_id": "REF023",
+    "original_number": null,
+    "citation": "刘鑫, 周友良, 马泽冰, 吴成亮, 苏文杰, 熊辉. 桃红四物汤治疗骨折与骨质疏松的异病同治机制研究——基于网络药理学与分子对接技术[J]. 中医临床研究, 2025, 17(32): 134-139.",
+    "year": 2025,
+    "source_type": "network_pharmacology_and_molecular_docking",
+    "url": null,
+    "doi": null
+  }
+]

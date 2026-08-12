@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">OP-RAG system overview</title>
+  <desc id="desc">A physician-recorded plan enters a three-layer traditional Chinese medicine knowledge base, is checked by deterministic cross-layer rules, and becomes a source-linked evidence record.</desc>
+
+  <rect width="1200" height="430" rx="18" fill="#F8FAFB"/>
+  <text x="600" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#24434A" letter-spacing="1.2">ONE PLAN  ·  THREE EVIDENCE LAYERS  ·  ONE AUDIT RECORD</text>
+
+  <!-- Input -->
+  <g transform="translate(42 114)">
+    <rect width="218" height="190" rx="14" fill="#FFFFFF" stroke="#A9C4C8" stroke-width="2"/>
+    <rect x="68" y="26" width="82" height="102" rx="8" fill="#EAF4F4" stroke="#2F7D78" stroke-width="2"/>
+    <rect x="91" y="17" width="36" height="17" rx="5" fill="#2F7D78"/>
+    <path d="M88 58h43M88 76h43M88 94h29" stroke="#2F7D78" stroke-width="5" stroke-linecap="round"/>
+    <text x="109" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#24434A">Recorded plan</text>
+    <text x="109" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#62777C">syndrome · formula · herbs</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M278 209H332" stroke="#78939A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M323 200l10 9-10 9" fill="none" stroke="#78939A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Knowledge base -->
+  <g transform="translate(350 78)">
+    <rect width="314" height="262" rx="16" fill="#FFFFFF" stroke="#8BB0B6" stroke-width="2"/>
+    <ellipse cx="157" cy="34" rx="100" ry="24" fill="#DDEFF1" stroke="#2F7D78" stroke-width="2"/>
+    <path d="M57 34v42c0 13 45 24 100 24s100-11 100-24V34" fill="#DDEFF1" stroke="#2F7D78" stroke-width="2"/>
+    <ellipse cx="157" cy="76" rx="100" ry="24" fill="#EAF4F4" stroke="#2F7D78" stroke-width="2"/>
+    <text x="157" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#24434A">TCM knowledge base</text>
+
+    <g transform="translate(30 119)">
+      <rect width="254" height="34" rx="7" fill="#DCEEFF" stroke="#3776AB"/>
+      <circle cx="24" cy="17" r="11" fill="#3776AB"/>
+      <text x="24" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">S</text>
+      <text x="48" y="22" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#24434A">Syndrome evidence</text>
+    </g>
+    <g transform="translate(30 163)">
+      <rect width="254" height="34" rx="7" fill="#E6F4EA" stroke="#3C8C5A"/>
+      <circle cx="24" cy="17" r="11" fill="#3C8C5A"/>
+      <text x="24" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">F</text>
+      <text x="48" y="22" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#24434A">Formula evidence</text>
+    </g>
+    <g transform="translate(30 207)">
+      <rect width="254" height="34" rx="7" fill="#F1E6F7" stroke="#8E58A8"/>
+      <circle cx="24" cy="17" r="11" fill="#8E58A8"/>
+      <text x="24" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">H</text>
+      <text x="48" y="22" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#24434A">Herb · target · pathway</text>
+    </g>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M682 209H727" stroke="#78939A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M718 200l10 9-10 9" fill="none" stroke="#78939A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Consistency check -->
+  <g transform="translate(744 114)">
+    <rect width="190" height="190" rx="14" fill="#FFFFFF" stroke="#E7AF68" stroke-width="2"/>
+    <circle cx="95" cy="70" r="43" fill="#FFF0DC" stroke="#F7931E" stroke-width="2"/>
+    <path d="M73 70l15 15 30-33" fill="none" stroke="#D9790B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M95 25v-9M95 124v-9M50 70h-9M149 70h-9" stroke="#E7AF68" stroke-width="3" stroke-linecap="round"/>
+    <text x="95" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#24434A">Consistency check</text>
+    <text x="95" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#62777C">predefined Python rules</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <path d="M951 209h45" stroke="#78939A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M987 200l10 9-10 9" fill="none" stroke="#78939A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Output -->
+  <g transform="translate(1013 93)">
+    <rect width="151" height="232" rx="14" fill="#FFFFFF" stroke="#6AA6B5" stroke-width="2"/>
+    <path d="M35 28h58l23 23v149H35z" fill="#E8F4F6" stroke="#168AAD" stroke-width="2"/>
+    <path d="M93 28v24h23" fill="none" stroke="#168AAD" stroke-width="2"/>
+    <circle cx="53" cy="80" r="6" fill="#3C8C5A"/>
+    <path d="M67 80h31" stroke="#6A8187" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="53" cy="105" r="6" fill="#E3B341"/>
+    <path d="M67 105h31" stroke="#6A8187" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="53" cy="130" r="6" fill="#8E58A8"/>
+    <path d="M67 130h31" stroke="#6A8187" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="53" cy="155" r="6" fill="#CF5C5C"/>
+    <path d="M67 155h31" stroke="#6A8187" stroke-width="4" stroke-linecap="round"/>
+    <text x="75" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#24434A">Evidence record</text>
+  </g>
+
+  <!-- Bottom signals -->
+  <g font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#466168">
+    <rect x="353" y="369" width="145" height="34" rx="17" fill="#EAF4F4" stroke="#A9C4C8"/>
+    <text x="425" y="391" text-anchor="middle">SOURCE-LINKED</text>
+    <rect x="520" y="369" width="145" height="34" rx="17" fill="#EAF4F4" stroke="#A9C4C8"/>
+    <text x="592" y="391" text-anchor="middle">LAYER-AWARE</text>
+    <rect x="687" y="369" width="145" height="34" rx="17" fill="#EAF4F4" stroke="#A9C4C8"/>
+    <text x="759" y="391" text-anchor="middle">RULE-CHECKED</text>
+  </g>
+</svg>

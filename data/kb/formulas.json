@@ -1,0 +1,996 @@
+[
+  {
+    "formula_id": "F001",
+    "name": "补髓丹",
+    "indication_syndrome": ["S1"],
+    "composition": [
+      {"herb": "淫羊藿", "role": "君药", "dose_range": "15g"},
+      {"herb": "骨碎补", "role": "臣药", "dose_range": "12g"},
+      {"herb": "杜仲", "role": "臣药", "dose_range": "12g"},
+      {"herb": "熟地黄", "role": "佐药", "dose_range": "15g"},
+      {"herb": "山茱萸", "role": "佐药", "dose_range": "10g"},
+      {"herb": "枸杞子", "role": "佐药", "dose_range": "12g"},
+      {"herb": "鹿角胶", "role": "佐药", "dose_range": "10g"},
+      {"herb": "肉桂", "role": "使药", "dose_range": "3g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "李超等随机对照临床试验原文组方"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "randomized_controlled_trial",
+        "reference_id": "REF002",
+        "study_design": "3组平行随机对照临床试验",
+        "sample_size": "123例，每组约41例",
+        "population": "原发性骨质疏松症肾阳虚证患者",
+        "duration": "12周",
+        "main_outcomes": ["腰椎BMD", "腰背痛VAS评分", "骨代谢指标"],
+        "result_summary": "补髓丹可提高腰椎骨密度，降低腰背痛VAS评分，并改善骨代谢相关指标。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "适用于原发性骨质疏松症肾阳虚证，症见腰背冷痛、腰膝酸软、畏寒肢冷。阴虚火旺、湿热体质者慎用，临床应用需由医师辨证加减。",
+    "references": ["REF002"],
+    "text_description": "补髓丹是用于原发性骨质疏松症肾阳虚证的现代经验方，治法以温补肾阳、补髓强骨为主。方中淫羊藿温肾壮阳、强筋健骨为君，骨碎补、杜仲补肾续骨为臣，熟地黄、山茱萸、枸杞子、鹿角胶滋补肝肾、填精益髓为佐，肉桂温通肾阳为使。临床随机对照研究显示，补髓丹可改善肾阳虚证患者腰背冷痛、腰膝酸软和畏寒肢冷等症状，并提高腰椎骨密度、降低腰背痛VAS评分、改善骨代谢指标。适合肾阳虚型骨质疏松方剂推荐和检索。"
+  },
+  {
+    "formula_id": "F002",
+    "name": "右归丸 / 加味右归丸",
+    "indication_syndrome": ["S1"],
+    "composition": [
+      {"herb": "熟地黄", "role": "君药", "dose_range": "24g"},
+      {"herb": "山药", "role": "臣药", "dose_range": "12g"},
+      {"herb": "山茱萸", "role": "臣药", "dose_range": "12g"},
+      {"herb": "枸杞子", "role": "佐药", "dose_range": "9g"},
+      {"herb": "鹿角胶", "role": "佐药", "dose_range": "12g"},
+      {"herb": "菟丝子", "role": "佐药", "dose_range": "12g"},
+      {"herb": "杜仲", "role": "佐药", "dose_range": "12g"},
+      {"herb": "当归", "role": "佐药", "dose_range": "9g"},
+      {"herb": "肉桂", "role": "使药", "dose_range": "6g"},
+      {"herb": "制附子", "role": "使药", "dose_range": "6g"}
+    ],
+    "classical_source": {
+      "type": "classical_formula",
+      "source": "《景岳全书》"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "randomized_controlled_trial",
+        "reference_id": "REF009",
+        "study_design": "随机对照试验，比较左归丸、右归丸与对照组",
+        "sample_size": "约200例",
+        "population": "肾虚型骨质疏松患者",
+        "duration": "24周",
+        "main_outcomes": ["骨密度", "肾虚相关症状"],
+        "result_summary": "研究提示右归丸可改善肾虚相关症状并提升骨密度，适合肾阳虚倾向患者。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经典温补肾阳代表方，适用于肾阳虚证骨质疏松。高血压、阴虚火旺、实热明显者慎用；含制附子、肉桂等温热药，需在医师指导下使用。",
+    "references": ["REF009"],
+    "text_description": "右归丸出自《景岳全书》，是温补肾阳、填精益髓的代表方，适用于原发性骨质疏松症肾阳虚证。患者常见腰膝酸软、腰背冷痛、畏寒肢冷、精神疲乏、小便频数等表现。方中熟地黄填精补肾为君，山药、山茱萸补益肝脾肾为臣，枸杞子、鹿角胶、菟丝子、杜仲、当归补肾养血强筋为佐，肉桂、制附子温补命门之火为使。随机对照研究提示，右归丸可改善肾虚相关症状并提升骨密度。"
+  },
+  {
+    "formula_id": "F003",
+    "name": "益肾强骨方",
+    "indication_syndrome": ["S1"],
+    "composition": [
+      {"herb": "淫羊藿", "role": "君药", "dose_range": "15g"},
+      {"herb": "补骨脂", "role": "臣药", "dose_range": "12g"},
+      {"herb": "杜仲", "role": "臣药", "dose_range": "12g"},
+      {"herb": "牛膝", "role": "佐药", "dose_range": "12g"},
+      {"herb": "熟地黄", "role": "佐药", "dose_range": "15g"},
+      {"herb": "黄芪", "role": "佐药", "dose_range": "15g"},
+      {"herb": "当归", "role": "佐药", "dose_range": "10g"},
+      {"herb": "甘草", "role": "使药", "dose_range": "6g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "陈永华等临床研究原文组方"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_controlled_study",
+        "reference_id": "REF010",
+        "study_design": "临床对照研究",
+        "sample_size": "60例",
+        "population": "肾阳虚型骨质疏松症患者",
+        "duration": "原文待核对",
+        "main_outcomes": ["腰膝酸软", "骨密度"],
+        "result_summary": "益肾强骨方可改善腰膝酸软等肾阳虚证候，并提高骨密度。",
+        "pmid": null,
+        "doi": "10.13457/j.cnki.jncm.2023.13.018"
+      }
+    ],
+    "notes": "现代经验方，主治肾阳虚型骨质疏松。孕妇慎用；含温补肾阳和活血养血药，需结合体质、合并疾病和用药情况辨证使用。",
+    "references": ["REF010"],
+    "text_description": "益肾强骨方是针对肾阳虚型骨质疏松症的现代经验方，治法重在温补肾阳、益肾强骨、兼顾气血。方中淫羊藿温肾壮阳、强筋骨为君，补骨脂、杜仲补肾助阳、强腰膝为臣，牛膝引药下行并利腰膝，熟地黄滋补肾精，黄芪益气托本，当归养血活血，甘草调和诸药。临床研究提示，该方可改善腰膝酸软、畏寒乏力等肾阳虚表现，并提高骨密度，适合作为肾阳虚型骨质疏松的候选方剂。"
+  },
+  {
+    "formula_id": "F004",
+    "name": "左归丸",
+    "indication_syndrome": ["S2"],
+    "composition": [
+      {"herb": "熟地黄", "role": "君药", "dose_range": "24g"},
+      {"herb": "山药", "role": "臣药", "dose_range": "12g"},
+      {"herb": "枸杞子", "role": "臣药", "dose_range": "12g"},
+      {"herb": "山茱萸", "role": "臣药", "dose_range": "12g"},
+      {"herb": "川牛膝", "role": "佐药", "dose_range": "9g"},
+      {"herb": "菟丝子", "role": "佐药", "dose_range": "12g"},
+      {"herb": "鹿角胶", "role": "佐药", "dose_range": "12g"},
+      {"herb": "龟板胶", "role": "佐药", "dose_range": "12g"}
+    ],
+    "classical_source": {
+      "type": "classical_formula",
+      "source": "《景岳全书》"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "randomized_controlled_trial",
+        "reference_id": "REF009",
+        "study_design": "随机对照试验，比较左归丸、右归丸与对照组",
+        "sample_size": "约200例",
+        "population": "肾虚型骨质疏松患者",
+        "duration": "24周",
+        "main_outcomes": ["骨密度", "肾虚相关症状"],
+        "result_summary": "研究提示左归丸适用于肝肾阴虚倾向患者，可改善肾虚相关症状并提升骨密度。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经典滋补肝肾真阴之方，适用于肝肾阴虚证。脾虚便溏、痰湿较重者慎用，临床需根据胃肠耐受情况加减。",
+    "references": ["REF009"],
+    "text_description": "左归丸出自《景岳全书》，是滋补肝肾、填精益髓的经典方，适用于肝肾阴虚型骨质疏松。患者多表现为腰膝酸痛、膝软无力、下肢抽筋、五心烦热、潮热盗汗、口干咽燥、舌红少津等。方中熟地黄滋肾填精为君，山药、枸杞子、山茱萸补益肝肾为臣，川牛膝强筋骨并引药下行，菟丝子、鹿角胶、龟板胶填精补髓、滋阴助阳为佐。现代临床研究提示，左归丸可改善肾虚相关症状并提升骨密度。"
+  },
+  {
+    "formula_id": "F005",
+    "name": "六味地黄丸 / 六味地黄汤",
+    "indication_syndrome": ["S2"],
+    "composition": [
+      {"herb": "熟地黄", "role": "君药", "dose_range": "24g"},
+      {"herb": "山茱萸", "role": "臣药", "dose_range": "12g"},
+      {"herb": "山药", "role": "臣药", "dose_range": "12g"},
+      {"herb": "泽泻", "role": "佐药", "dose_range": "9g"},
+      {"herb": "牡丹皮", "role": "佐药", "dose_range": "9g"},
+      {"herb": "茯苓", "role": "佐药", "dose_range": "9g"}
+    ],
+    "classical_source": {
+      "type": "classical_formula",
+      "source": "《小儿药证直诀》"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_and_mechanism_study",
+        "reference_id": "REF011",
+        "study_design": "临床与机制研究",
+        "sample_size": "205例绝经后骨质疏松患者",
+        "population": "肾阴虚相关绝经后骨质疏松患者",
+        "duration": "6个月",
+        "main_outcomes": ["骨密度", "25(OH)D", "JAK/STAT相关机制"],
+        "result_summary": "研究提示六味地黄丸可调节骨代谢，可能通过JAK/STAT相关通路改善绝经后骨质疏松。",
+        "pmid": "28028720",
+        "doi": "10.1007/s11655-016-2744-2"
+      },
+      {
+        "evidence_type": "systematic_review_protocol",
+        "reference_id": "REF012",
+        "study_design": "系统评价方案",
+        "sample_size": null,
+        "population": "原发性骨质疏松患者",
+        "duration": null,
+        "main_outcomes": ["骨密度", "临床有效率", "安全性"],
+        "result_summary": "该文献为系统评价方案，不作为完成性疗效结论，仅提示六味地黄汤用于原发性骨质疏松的研究价值。",
+        "pmid": "31008975",
+        "doi": "10.1097/MD.0000000000015282"
+      }
+    ],
+    "notes": "肝肾阴虚基础经典方。脾胃虚寒、食少便溏或阳虚寒象明显者不宜长期单独服用。",
+    "references": ["REF011", "REF012"],
+    "text_description": "六味地黄丸出自《小儿药证直诀》，是滋补肾阴的经典基础方，可用于肝肾阴虚型骨质疏松。患者常见腰膝酸痛、头晕耳鸣、五心烦热、潮热盗汗、口干咽燥、舌红少津等表现。方中熟地黄滋肾填精为君，山茱萸补肝肾、山药补脾肾为臣，泽泻利湿泄浊，牡丹皮清虚热，茯苓健脾渗湿为佐，体现三补三泻配伍。现代研究提示其可能调节骨代谢和JAK/STAT相关通路，但系统评价文献中部分仍为方案设计，疗效证据需谨慎表述。"
+  },
+  {
+    "formula_id": "F006",
+    "name": "骨疏康胶囊 / 颗粒",
+    "indication_syndrome": ["S3"],
+    "composition": [
+      {"herb": "淫羊藿", "role": "君药", "dose_range": "说明书未公开"},
+      {"herb": "熟地黄", "role": "臣药", "dose_range": "说明书未公开"},
+      {"herb": "骨碎补", "role": "臣药", "dose_range": "说明书未公开"},
+      {"herb": "黄芪", "role": "臣药", "dose_range": "说明书未公开"},
+      {"herb": "丹参", "role": "佐药", "dose_range": "说明书未公开"},
+      {"herb": "木耳", "role": "佐药", "dose_range": "说明书未公开"},
+      {"herb": "黄瓜子", "role": "使药", "dose_range": "说明书未公开"}
+    ],
+    "classical_source": {
+      "type": "chinese_patent_medicine",
+      "source": "药品说明书及系统评价文献"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "systematic_review_meta_analysis",
+        "reference_id": "REF013",
+        "study_design": "系统评价与Meta分析",
+        "sample_size": "24项RCT，共2363例",
+        "population": "原发性骨质疏松患者",
+        "duration": "纳入研究疗程不一",
+        "main_outcomes": ["骨密度", "腰背痛", "骨代谢指标", "安全性"],
+        "result_summary": "骨疏康联合常规治疗可提高骨密度、减轻腰背痛并改善部分骨代谢指标。",
+        "pmid": null,
+        "doi": "10.1186/s13018-023-04264-9"
+      }
+    ],
+    "notes": "适用于肾虚兼气血不足或脾肾不足相关骨质疏松。感冒发热期间停用；胃肠不适、过敏体质或合并多药治疗者需遵医嘱使用。",
+    "references": ["REF013"],
+    "text_description": "骨疏康胶囊或颗粒为常用骨质疏松中成药，功效偏补肾益气、活血壮骨，适合脾肾不足、肾虚兼气血不足的骨质疏松患者。症状可见腰膝酸软、畏寒乏力、腰背疼痛、体力下降等。方中淫羊藿补肾壮骨为君，熟地黄、骨碎补、黄芪补肾填精、益气强骨为臣，丹参活血通络，木耳、黄瓜子辅助改善气血与骨骼修复。系统评价和Meta分析提示，骨疏康联合常规治疗可提高骨密度、减轻腰背痛并改善骨代谢指标。"
+  },
+  {
+    "formula_id": "F007",
+    "name": "健脾补肾方",
+    "indication_syndrome": ["S3"],
+    "composition": [
+      {"herb": "黄芪", "role": "君药", "dose_range": "15g"},
+      {"herb": "党参", "role": "君药", "dose_range": "12g"},
+      {"herb": "白术", "role": "臣药", "dose_range": "12g"},
+      {"herb": "茯苓", "role": "臣药", "dose_range": "12g"},
+      {"herb": "淫羊藿", "role": "佐药", "dose_range": "12g"},
+      {"herb": "补骨脂", "role": "佐药", "dose_range": "12g"},
+      {"herb": "杜仲", "role": "佐药", "dose_range": "12g"},
+      {"herb": "甘草", "role": "使药", "dose_range": "6g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "章联欢等临床研究原文组方"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_observational_study",
+        "reference_id": "REF014",
+        "study_design": "临床观察研究",
+        "sample_size": "84例",
+        "population": "脾肾阳虚型亚临床甲减伴骨质疏松患者",
+        "duration": "原文待核对",
+        "main_outcomes": ["腰膝冷痛", "乏力", "便溏", "骨密度"],
+        "result_summary": "健脾补肾方可改善腰膝冷痛、乏力、便溏等脾肾阳虚相关表现，并对骨密度有改善作用。",
+        "pmid": null,
+        "doi": "10.16766/j.cnki.issn.1674-4152.000663"
+      }
+    ],
+    "notes": "现代经验方，主治脾肾阳虚证。研究人群包含亚临床甲减伴骨质疏松患者，外推至一般原发性骨质疏松需结合辨证和合并疾病判断。",
+    "references": ["REF014"],
+    "text_description": "健脾补肾方是针对脾肾阳虚型骨质疏松的现代经验方，治法重在益气健脾、温补肾阳、强筋壮骨。方中黄芪、党参补中益气为君，白术、茯苓健脾运化为臣，淫羊藿、补骨脂、杜仲温补肾阳、强腰膝为佐，甘草调和诸药为使。适用于腰膝冷痛、畏寒乏力、食少便溏、双膝行走无力等表现。临床观察提示，该方可改善脾肾阳虚相关症状并对骨密度有积极影响。"
+  },
+  {
+    "formula_id": "F008",
+    "name": "藤黄健骨胶囊",
+    "indication_syndrome": ["S4", "S6"],
+    "composition": [
+      {"herb": "熟地黄", "role": "君药", "dose_range": "说明书未公开"},
+      {"herb": "鹿衔草", "role": "臣药", "dose_range": "说明书未公开"},
+      {"herb": "骨碎补", "role": "臣药", "dose_range": "说明书未公开"},
+      {"herb": "肉苁蓉", "role": "佐药", "dose_range": "说明书未公开"},
+      {"herb": "淫羊藿", "role": "佐药", "dose_range": "说明书未公开"},
+      {"herb": "鸡血藤", "role": "佐药", "dose_range": "说明书未公开"},
+      {"herb": "莱菔子", "role": "使药", "dose_range": "说明书未公开"}
+    ],
+    "classical_source": {
+      "type": "chinese_patent_medicine",
+      "source": "药品说明书及相关临床/机制研究"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_and_mechanism_study",
+        "reference_id": "REF015",
+        "study_design": "临床与机制研究",
+        "sample_size": "原文待核对",
+        "population": "肾虚血瘀型绝经后骨质疏松患者",
+        "duration": "原文待核对",
+        "main_outcomes": ["疼痛VAS", "骨密度", "TNF-α", "IL-6", "JAK2/STAT3通路"],
+        "result_summary": "藤黄健骨胶囊可改善疼痛和骨密度，并可能通过调控TNF-α/IL-6/JAK2/STAT3通路影响炎症和免疫相关机制。",
+        "pmid": null,
+        "doi": "10.13748/j.cnki.issn1007-7693.20241603"
+      },
+      {
+        "evidence_type": "clinical_study",
+        "reference_id": "REF016",
+        "study_design": "临床研究",
+        "sample_size": "原文待核对",
+        "population": "骨质疏松症患者",
+        "duration": "原文待核对",
+        "main_outcomes": ["骨密度", "骨代谢指标", "临床疗效"],
+        "result_summary": "依降钙素联合藤黄健骨胶囊可改善骨密度和骨代谢相关指标。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "适用于肾虚血瘀或气滞血瘀疼痛明显的骨质疏松患者。孕妇忌用；过敏体质、肝肾功能异常或合并抗凝治疗者需谨慎。",
+    "references": ["REF015", "REF016"],
+    "text_description": "藤黄健骨胶囊是常用于骨质疏松和骨关节疼痛的中成药，可归入肾虚血瘀证和气滞血瘀证候选方剂。方中熟地黄补肾填精为君，鹿衔草、骨碎补补肾强骨为臣，肉苁蓉、淫羊藿温补肾阳，鸡血藤养血活血通络，莱菔子调畅气机。适用于腰背疼痛、痛有定处、活动不利、肾虚兼血瘀表现明显者。临床和机制研究提示其可改善疼痛、骨密度和骨代谢，并可能下调TNF-α、IL-6等炎症因子。"
+  },
+  {
+    "formula_id": "F009",
+    "name": "仙灵骨葆胶囊",
+    "indication_syndrome": ["S4"],
+    "composition": [
+      {"herb": "淫羊藿", "role": "君药", "dose_range": "说明书未公开"},
+      {"herb": "续断", "role": "臣药", "dose_range": "说明书未公开"},
+      {"herb": "丹参", "role": "臣药", "dose_range": "说明书未公开"},
+      {"herb": "知母", "role": "佐药", "dose_range": "说明书未公开"},
+      {"herb": "地黄", "role": "佐药", "dose_range": "说明书未公开"},
+      {"herb": "补骨脂", "role": "佐药", "dose_range": "说明书未公开"}
+    ],
+    "classical_source": {
+      "type": "chinese_patent_medicine",
+      "source": "药品说明书及系统评价/Meta分析文献"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "systematic_review_meta_analysis",
+        "reference_id": "REF017",
+        "study_design": "系统评价与Meta分析",
+        "sample_size": "20项RCT，1911例患者",
+        "population": "原发性骨质疏松患者",
+        "duration": "纳入研究疗程不一",
+        "main_outcomes": ["骨密度", "疼痛评分", "骨代谢指标", "安全性"],
+        "result_summary": "仙灵骨葆胶囊联合阿仑膦酸钠可提高骨密度，缓解疼痛并改善部分骨代谢指标。",
+        "pmid": null,
+        "doi": "10.3389/fphar.2021.695832"
+      },
+      {
+        "evidence_type": "systematic_review_meta_analysis",
+        "reference_id": "REF018",
+        "study_design": "系统评价与Meta分析",
+        "sample_size": "8项随机临床试验，846名参与者",
+        "population": "骨质疏松患者",
+        "duration": "纳入研究疗程不一",
+        "main_outcomes": ["骨密度", "疼痛", "生活质量", "不良事件"],
+        "result_summary": "系统评价提示仙灵骨葆胶囊在改善疼痛和生活质量方面具有一定优势，安全性总体可接受。",
+        "pmid": null,
+        "doi": "10.3389/fendo.2022.870277"
+      }
+    ],
+    "notes": "适用于肾虚血瘀、肝肾不足兼瘀阻疼痛的骨质疏松患者。肝肾功能不全者慎用；不建议长期连续使用超过6个月，使用期间注意监测肝肾功能。",
+    "references": ["REF017", "REF018"],
+    "text_description": "仙灵骨葆胶囊为骨质疏松常用中成药，功效偏滋补肝肾、活血通络、强筋壮骨，可作为肾虚血瘀证候选方剂。方中淫羊藿温肾壮骨为君，续断补肝肾、强筋骨，丹参活血通络为臣，知母清虚热，地黄滋阴补肾，补骨脂温肾助阳为佐。适用于腰膝酸软、腰背疼痛、活动不利、肾虚兼瘀阻表现明显者。多项系统评价和Meta分析显示，仙灵骨葆胶囊可提高骨密度、缓解腰背痛、改善生活质量和部分骨代谢指标。"
+  },
+  {
+    "formula_id": "F010",
+    "name": "补肾活血汤",
+    "indication_syndrome": ["S4", "S6"],
+    "composition": [
+      {"herb": "熟地黄", "role": "君药", "dose_range": "15g"},
+      {"herb": "杜仲", "role": "臣药", "dose_range": "12g"},
+      {"herb": "骨碎补", "role": "臣药", "dose_range": "12g"},
+      {"herb": "当归", "role": "佐药", "dose_range": "12g"},
+      {"herb": "川芎", "role": "佐药", "dose_range": "10g"},
+      {"herb": "桃仁", "role": "佐药", "dose_range": "10g"},
+      {"herb": "红花", "role": "佐药", "dose_range": "6g"},
+      {"herb": "甘草", "role": "使药", "dose_range": "6g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "吴同明临床研究原文组方"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_controlled_study",
+        "reference_id": "REF019",
+        "study_design": "临床对照研究",
+        "sample_size": "72例",
+        "population": "骨质疏松性胸腰椎压缩性骨折患者",
+        "duration": "原文待核对",
+        "main_outcomes": ["疼痛", "骨愈合", "血瘀证候"],
+        "result_summary": "补肾活血汤可减轻椎体骨折后疼痛，促进骨愈合并改善血瘀证候。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "适用于肾虚兼血瘀疼痛、气滞血瘀疼痛明显者。孕妇、月经过多或有出血倾向者禁用；合并抗凝、抗血小板治疗者需谨慎。",
+    "references": ["REF019"],
+    "text_description": "补肾活血汤是针对肾虚血瘀和气滞血瘀疼痛的现代经验方，治法为补肾强骨、活血通络、化瘀止痛。方中熟地黄补肾填精为君，杜仲、骨碎补补肾强腰、续骨壮骨为臣，当归、川芎养血活血，桃仁、红花破瘀通络，甘草调和诸药。适用于腰背疼痛、痛有定处、拒按、活动受限、骨折后疼痛迁延等表现。临床研究提示，该方可减轻骨质疏松性椎体骨折后疼痛，促进骨愈合并改善血瘀证候。"
+  },
+  {
+    "formula_id": "F011",
+    "name": "补肾健脾方",
+    "indication_syndrome": ["S5"],
+    "composition": [
+      {"herb": "党参", "role": "君药", "dose_range": "15g"},
+      {"herb": "黄芪", "role": "君药", "dose_range": "15g"},
+      {"herb": "白术", "role": "臣药", "dose_range": "12g"},
+      {"herb": "茯苓", "role": "臣药", "dose_range": "12g"},
+      {"herb": "山药", "role": "佐药", "dose_range": "15g"},
+      {"herb": "炒薏苡仁", "role": "佐药", "dose_range": "15g"},
+      {"herb": "淫羊藿", "role": "佐药", "dose_range": "10g"},
+      {"herb": "炙甘草", "role": "使药", "dose_range": "6g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "李东玲等临床观察原文组方"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_observational_study",
+        "reference_id": "REF020",
+        "study_design": "临床观察",
+        "sample_size": "68例",
+        "population": "2型糖尿病合并骨质疏松症患者",
+        "duration": "原文待核对",
+        "main_outcomes": ["乏力", "食少", "肌肉消瘦", "营养状态"],
+        "result_summary": "补肾健脾方可改善乏力、食少、肌肉消瘦等脾胃虚弱相关表现。",
+        "pmid": null,
+        "doi": "10.13359/j.cnki.gzxbtcm.2023.10.008"
+      }
+    ],
+    "notes": "用于脾胃虚弱兼肾虚型骨质疏松。证据来自2型糖尿病合并骨质疏松人群，外推至单纯原发性骨质疏松需谨慎。",
+    "references": ["REF020"],
+    "text_description": "补肾健脾方是用于脾胃虚弱兼肾虚型骨质疏松的现代经验方，治法以补益脾胃、益气生血、兼补肾助骨为主。方中党参、黄芪益气健脾为君，白术、茯苓健脾运湿为臣，山药补脾肾，炒薏苡仁健脾渗湿，淫羊藿温肾强骨，炙甘草调和诸药。适用于食少纳呆、神疲乏力、肌肉消瘦、大便溏泄、腰背酸痛等表现。临床观察来自2型糖尿病合并骨质疏松人群，提示其可改善乏力、食少和营养状态，应用于一般原发性骨质疏松需谨慎外推。"
+  },
+  {
+    "formula_id": "F012",
+    "name": "加味身痛逐瘀汤",
+    "indication_syndrome": ["S6"],
+    "composition": [
+      {"herb": "桃仁", "role": "君药", "dose_range": "10g"},
+      {"herb": "红花", "role": "君药", "dose_range": "10g"},
+      {"herb": "川芎", "role": "臣药", "dose_range": "12g"},
+      {"herb": "当归", "role": "臣药", "dose_range": "12g"},
+      {"herb": "牛膝", "role": "臣药", "dose_range": "12g"},
+      {"herb": "五灵脂", "role": "佐药", "dose_range": "10g"},
+      {"herb": "没药", "role": "佐药", "dose_range": "6g"},
+      {"herb": "香附", "role": "佐药", "dose_range": "10g"},
+      {"herb": "秦艽", "role": "佐药", "dose_range": "10g"},
+      {"herb": "羌活", "role": "佐药", "dose_range": "10g"},
+      {"herb": "甘草", "role": "使药", "dose_range": "6g"}
+    ],
+    "classical_source": {
+      "type": "classical_formula_modified",
+      "source": "《医林改错》身痛逐瘀汤加味，韩鹏勃等临床研究使用"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_study",
+        "reference_id": "REF021",
+        "study_design": "临床研究",
+        "sample_size": "64例",
+        "population": "骨质疏松性疼痛患者",
+        "duration": "原文待核对",
+        "main_outcomes": ["VAS疼痛评分", "痛有定处", "拒按"],
+        "result_summary": "加味身痛逐瘀汤可显著降低VAS疼痛评分，改善痛有定处、拒按等气滞血瘀疼痛表现。",
+        "pmid": null,
+        "doi": "10.13192/j.issn.1000-1719.2019.12.030"
+      }
+    ],
+    "notes": "气滞血瘀疼痛专方。孕妇、月经过多者禁用；出血倾向或正在使用抗凝、抗血小板药物者慎用。",
+    "references": ["REF021"],
+    "text_description": "加味身痛逐瘀汤源于《医林改错》身痛逐瘀汤加减，适用于气滞血瘀证骨质疏松性疼痛。患者常表现为骨节疼痛、痛有定处、痛处拒按、转侧不利、日轻夜重，舌质紫暗或有瘀点瘀斑。方中桃仁、红花活血化瘀止痛为君，川芎、当归、牛膝行血养血、引血下行为臣，五灵脂、没药散瘀止痛，香附行气止痛，秦艽、羌活祛风通络，甘草调和诸药。临床研究提示，该方可显著降低骨质疏松性疼痛患者VAS评分。"
+  },
+  {
+    "formula_id": "F013",
+    "name": "右归饮加减",
+    "indication_syndrome": ["S1"],
+    "composition": [
+      {"herb": "熟地黄", "role": "君药", "dose_range": "20g"},
+      {"herb": "山药", "role": "臣药", "dose_range": "10g"},
+      {"herb": "山茱萸", "role": "臣药", "dose_range": "10g"},
+      {"herb": "枸杞子", "role": "佐药", "dose_range": "15g"},
+      {"herb": "菟丝子", "role": "佐药", "dose_range": "10g"},
+      {"herb": "杜仲", "role": "佐药", "dose_range": "10g"},
+      {"herb": "鹿角胶", "role": "佐药", "dose_range": "10g"},
+      {"herb": "当归", "role": "佐药", "dose_range": "10g"},
+      {"herb": "黄芪", "role": "佐药", "dose_range": "20g"},
+      {"herb": "肉桂", "role": "使药", "dose_range": "3g"},
+      {"herb": "补骨脂", "role": "加减", "dose_range": "10g"},
+      {"herb": "续断", "role": "加减", "dose_range": "10g"},
+      {"herb": "淫羊藿", "role": "加减", "dose_range": "10g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "刘定安医案，右归饮加减"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "名医医案",
+        "sample_size": "1例",
+        "population": "骨质疏松症肾阳亏虚型患者",
+        "duration": "约2个月复诊观察",
+        "main_outcomes": ["腰背酸痛", "畏寒", "骨质疏松相关症状"],
+        "result_summary": "医案记录经右归饮加减及补钙、维生素D等治疗后，畏寒明显好转，腰背症状基本消失。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，来自刘定安骨质疏松症医案。适用于肾阳亏虚骨痿，症见腰背酸痛、畏寒、小便清长、纳少便溏、乏力等。含温补肾阳及补益气血药，阴虚火旺或实热明显者慎用。",
+    "references": [],
+    "text_description": "右归饮加减为刘定安医案中用于骨质疏松症肾阳亏虚型的经验方，治法为温补肾阳、填精益髓、强筋健骨。方中熟地黄补肾填精为君，山药、山茱萸补益肝脾肾为臣，枸杞子、菟丝子、杜仲、鹿角胶补肾强骨，当归养血，黄芪益气健脾，肉桂温补肾阳，复诊加补骨脂、续断、淫羊藿以增强补肾壮骨之力。适用于腰背酸痛、畏寒、小便清长、纳少便溏、神疲乏力等肾阳亏虚表现。"
+  },
+  {
+    "formula_id": "F014",
+    "name": "左归丸合参苓白术散加减",
+    "indication_syndrome": ["S2", "S5"],
+    "composition": [
+      {"herb": "熟地黄", "role": "君药", "dose_range": "20g"},
+      {"herb": "山药", "role": "臣药", "dose_range": "20g"},
+      {"herb": "山茱萸", "role": "臣药", "dose_range": "15g"},
+      {"herb": "菟丝子", "role": "佐药", "dose_range": "12g"},
+      {"herb": "龟板", "role": "佐药", "dose_range": "15g"},
+      {"herb": "党参", "role": "佐药", "dose_range": "15g"},
+      {"herb": "白术", "role": "佐药", "dose_range": "12g"},
+      {"herb": "茯苓", "role": "佐药", "dose_range": "25g"},
+      {"herb": "桔梗", "role": "使药", "dose_range": "12g"},
+      {"herb": "陈皮", "role": "使药", "dose_range": "6g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "雷奕祥骨痹医案，左归丸合参苓白术散加减"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "临床验案",
+        "sample_size": "1例",
+        "population": "骨痹肾虚髓亏患者",
+        "duration": "约3周",
+        "main_outcomes": ["腰背部疼痛", "胃纳", "腰部乏力"],
+        "result_summary": "医案记录治疗2周后腰背部疼痛缓解、胃纳好转，再服1周后诸症消失。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，来自雷奕祥治疗骨痹临床验案。主治肾虚髓亏兼脾胃虚弱，治以补肾益髓为主，辅以健脾益气。",
+    "references": [],
+    "text_description": "左归丸合参苓白术散加减为雷奕祥骨痹医案中的经验方，适用于肾虚髓亏兼脾胃虚弱的骨质疏松或骨痹患者。方中熟地黄、山药、山茱萸、菟丝子、龟板补肝肾、益精血、充养骨髓，党参、白术、茯苓健脾益气，桔梗、陈皮调畅气机。适用于腰痛、腰膝酸软、头晕耳聋、牙齿松动、腹胀纳少、精神疲乏、舌淡红苔薄白、脉沉细等表现。"
+  },
+  {
+    "formula_id": "F015",
+    "name": "肝肾阴虚痰瘀互阻方",
+    "indication_syndrome": ["S2", "S4"],
+    "composition": [
+      {"herb": "川芎", "role": "君药", "dose_range": "30g"},
+      {"herb": "茯苓", "role": "臣药", "dose_range": "20g"},
+      {"herb": "桃仁", "role": "臣药", "dose_range": "15g"},
+      {"herb": "红花", "role": "臣药", "dose_range": "15g"},
+      {"herb": "羌活", "role": "佐药", "dose_range": "15g"},
+      {"herb": "独活", "role": "佐药", "dose_range": "15g"},
+      {"herb": "桑枝", "role": "佐药", "dose_range": "15g"},
+      {"herb": "牛膝", "role": "佐药", "dose_range": "15g"},
+      {"herb": "熟地黄", "role": "佐药", "dose_range": "15g"},
+      {"herb": "菟丝子", "role": "佐药", "dose_range": "15g"},
+      {"herb": "山药", "role": "佐药", "dose_range": "15g"},
+      {"herb": "地龙", "role": "佐药", "dose_range": "15g"},
+      {"herb": "当归", "role": "佐药", "dose_range": "15g"},
+      {"herb": "丹参", "role": "佐药", "dose_range": "15g"},
+      {"herb": "虎杖", "role": "使药", "dose_range": "10g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "杨仁旭主任医师辨治老年性骨质疏松症经验医案"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "名医经验医案",
+        "sample_size": "1例",
+        "population": "肝肾阴虚、痰瘀互阻型骨质疏松症患者",
+        "duration": "多次复诊观察",
+        "main_outcomes": ["筋骨疼痛", "腰膝酸软", "咽干耳鸣", "大便"],
+        "result_summary": "医案记录初服后身痛缓解，大便改善，后续以滋补肝肾、活血通络加减。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，适用于肝肾阴虚兼痰瘀互阻或肾虚血瘀表现明显者。方中活血通络药较多，孕妇、出血倾向或合并抗凝治疗者慎用。",
+    "references": [],
+    "text_description": "肝肾阴虚痰瘀互阻方为杨仁旭主任医师辨治老年性骨质疏松症医案中的经验方，治以祛瘀化痰、兼补肝肾。适用于腰膝酸软、筋骨酸痛、阴雨天加重、头晕耳鸣、咽干眼涩、大便干结、舌黯红体瘦、苔薄裂纹、脉细涩等表现。方中川芎、桃仁、红花、丹参、当归活血通络，茯苓化痰健脾，羌活、独活、桑枝祛风通络，熟地黄、菟丝子、山药补肝肾，牛膝强筋骨并引药下行，地龙、虎杖通络化瘀。"
+  },
+  {
+    "formula_id": "F016",
+    "name": "参苓白术散合补肾壮骨方",
+    "indication_syndrome": ["S5", "S3"],
+    "composition": [
+      {"herb": "党参", "role": "君药", "dose_range": "经验剂量"},
+      {"herb": "白术", "role": "君药", "dose_range": "经验剂量"},
+      {"herb": "山药", "role": "臣药", "dose_range": "经验剂量"},
+      {"herb": "茯苓", "role": "臣药", "dose_range": "经验剂量"},
+      {"herb": "薏苡仁", "role": "佐药", "dose_range": "经验剂量"},
+      {"herb": "陈皮", "role": "佐药", "dose_range": "经验剂量"},
+      {"herb": "砂仁", "role": "佐药", "dose_range": "经验剂量"},
+      {"herb": "黄芪", "role": "佐药", "dose_range": "经验剂量"},
+      {"herb": "当归", "role": "佐药", "dose_range": "经验剂量"},
+      {"herb": "锁阳", "role": "加减", "dose_range": "经验剂量"},
+      {"herb": "狗骨", "role": "加减", "dose_range": "经验剂量"},
+      {"herb": "补骨脂", "role": "加减", "dose_range": "经验剂量"},
+      {"herb": "淫羊藿", "role": "加减", "dose_range": "经验剂量"},
+      {"herb": "巴戟天", "role": "加减", "dose_range": "经验剂量"},
+      {"herb": "甘草", "role": "使药", "dose_range": "经验剂量"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "脾肾亏虚骨痿医案，参苓白术散加减并后期补肾壮骨"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "临床医案",
+        "sample_size": "1例",
+        "population": "脾肾亏虚型骨痿患者",
+        "duration": "多次复诊观察",
+        "main_outcomes": ["腰背痛", "食少纳呆", "便溏", "神疲乏力"],
+        "result_summary": "医案记录以健脾益气为基础，后期兼补肾强骨，症状逐步减轻。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，适用于脾胃虚弱为主、兼有肾虚骨痿者。原医案分阶段加减，此处整理为知识库候选方，剂量需回查原文后进一步标准化。",
+    "references": [],
+    "text_description": "参苓白术散合补肾壮骨方为脾肾亏虚骨痿医案整理的经验方，治法以健脾益气、运化水谷为基础，后期兼补肾强骨。适用于腰背疼痛、酸软无力、腰部活动不利、食少纳呆、腹胀、便溏、面浮不华、气短、神疲乏力、舌淡胖苔薄白、脉沉细等表现。方中党参、白术、茯苓、山药健脾益气，薏苡仁渗湿，陈皮、砂仁理气醒脾，黄芪、当归补益气血，锁阳、狗骨、补骨脂、淫羊藿、巴戟天补肾壮骨，甘草调和诸药。"
+  },
+  {
+    "formula_id": "F017",
+    "name": "刘柏龄补肾健脾壮骨方",
+    "indication_syndrome": ["S3"],
+    "composition": [
+      {"herb": "淫羊藿", "role": "君药", "dose_range": "经验剂量"},
+      {"herb": "肉苁蓉", "role": "臣药", "dose_range": "经验剂量"},
+      {"herb": "鹿角霜", "role": "臣药", "dose_range": "经验剂量"},
+      {"herb": "熟地黄", "role": "臣药", "dose_range": "经验剂量"},
+      {"herb": "鹿衔草", "role": "佐药", "dose_range": "经验剂量"},
+      {"herb": "骨碎补", "role": "佐药", "dose_range": "经验剂量"},
+      {"herb": "当归", "role": "佐药", "dose_range": "经验剂量"},
+      {"herb": "黄芪", "role": "佐药", "dose_range": "20g"},
+      {"herb": "牡蛎", "role": "佐药", "dose_range": "50g，先煎"},
+      {"herb": "杜仲", "role": "佐药", "dose_range": "15g"},
+      {"herb": "鸡血藤", "role": "佐药", "dose_range": "15g"},
+      {"herb": "陈皮", "role": "佐药", "dose_range": "15g"},
+      {"herb": "黄精", "role": "佐药", "dose_range": "15g"},
+      {"herb": "白术", "role": "佐药", "dose_range": "15g"},
+      {"herb": "山药", "role": "佐药", "dose_range": "15g"},
+      {"herb": "夜交藤", "role": "加减", "dose_range": "30g"},
+      {"herb": "龙齿", "role": "加减", "dose_range": "20g，先煎"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "刘柏龄骨痿医案补肾健脾壮骨经验方"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "名医医案",
+        "sample_size": "1例",
+        "population": "脾肾阳虚或肾虚髓减型骨质疏松患者",
+        "duration": "约2个月以上",
+        "main_outcomes": ["晨僵", "腰背酸痛", "步履", "睡眠"],
+        "result_summary": "医案记录治疗后晨僵、腰背酸痛明显减轻，步履较前轻松有力，睡眠好转。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，来自刘柏龄教授骨伤科医案。主治肾虚髓减、脾弱精衰所致骨痿，兼顾失眠时加夜交藤、龙齿。",
+    "references": [],
+    "text_description": "刘柏龄补肾健脾壮骨方为骨痿医案经验方，治法为补肾、益脾、壮骨。适用于腰背酸痛、晨僵、四肢沉重乏力、轻度驼背、骨质疏松、脾肾不足表现者。方中淫羊藿、肉苁蓉、鹿角霜温肾壮骨，熟地黄、黄精补肾填精，鹿衔草、骨碎补、杜仲强筋壮骨，当归、鸡血藤养血活血，黄芪、白术、山药健脾益气，牡蛎潜镇并助骨质，陈皮理气醒脾。睡眠欠佳时加夜交藤、龙齿安神。"
+  },
+  {
+    "formula_id": "F018",
+    "name": "陈恩健脾益肾活血通络方",
+    "indication_syndrome": ["S3", "S4"],
+    "composition": [
+      {"herb": "黄芪", "role": "君药", "dose_range": "30g"},
+      {"herb": "党参", "role": "君药", "dose_range": "15g"},
+      {"herb": "白术", "role": "臣药", "dose_range": "10g"},
+      {"herb": "升麻", "role": "佐药", "dose_range": "3g"},
+      {"herb": "柴胡", "role": "佐药", "dose_range": "6g"},
+      {"herb": "骨碎补", "role": "臣药", "dose_range": "24g"},
+      {"herb": "续断", "role": "臣药", "dose_range": "20g"},
+      {"herb": "狗脊", "role": "臣药", "dose_range": "18g"},
+      {"herb": "丹参", "role": "佐药", "dose_range": "12g"},
+      {"herb": "川牛膝", "role": "佐药", "dose_range": "12g"},
+      {"herb": "地龙", "role": "佐药", "dose_range": "10g"},
+      {"herb": "三七", "role": "加减", "dose_range": "5g，冲服"},
+      {"herb": "炙甘草", "role": "使药", "dose_range": "6g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "陈恩老年性骨质疏松症医案，健脾益肾活血通络方"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "名医医案",
+        "sample_size": "1例",
+        "population": "脾肾亏损、气血不通型老年性骨质疏松症患者",
+        "duration": "约1个月治疗及半年随访",
+        "main_outcomes": ["腰背疼痛", "纳差", "少气懒言", "复发"],
+        "result_summary": "医案记录二诊腰背痛减轻，三诊症状消失，半年随访腰背活动自如且无复发。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，适用于脾肾亏损、气血不通或脾肾阳虚兼瘀阻的老年性骨质疏松。含活血通络药，出血倾向或抗凝治疗者慎用。",
+    "references": [],
+    "text_description": "陈恩健脾益肾活血通络方为老年性骨质疏松症医案经验方，治法为健脾益肾、活血通络。适用于腰背酸痛、腰骶下坠、久坐起立不利、两膝酸软、乏力、纳差、倦怠懒言、舌淡苔白、体胖、脉沉细无力等脾肾亏损表现，并兼有气血不通者。方中黄芪、党参、白术健脾益气，升麻、柴胡升举清阳，骨碎补、续断、狗脊补肾强骨，丹参、川牛膝、地龙、三七活血通络止痛，炙甘草调和诸药。"
+  },
+  {
+    "formula_id": "F019",
+    "name": "二仙汤加减",
+    "indication_syndrome": ["S1", "S4"],
+    "composition": [
+      {"herb": "仙茅", "role": "君药", "dose_range": "15g"},
+      {"herb": "淫羊藿", "role": "君药", "dose_range": "15g"},
+      {"herb": "当归", "role": "臣药", "dose_range": "15g"},
+      {"herb": "巴戟天", "role": "臣药", "dose_range": "15g"},
+      {"herb": "黄柏", "role": "佐药", "dose_range": "15g"},
+      {"herb": "知母", "role": "佐药", "dose_range": "10g"},
+      {"herb": "延胡索", "role": "佐药", "dose_range": "12g"},
+      {"herb": "白术", "role": "佐药", "dose_range": "12g"},
+      {"herb": "山茱萸", "role": "佐药", "dose_range": "10g"},
+      {"herb": "补骨脂", "role": "佐药", "dose_range": "10g"},
+      {"herb": "杜仲", "role": "佐药", "dose_range": "10g"},
+      {"herb": "熟地黄", "role": "佐药", "dose_range": "15g"},
+      {"herb": "肉桂", "role": "使药", "dose_range": "5g"},
+      {"herb": "川芎", "role": "加减", "dose_range": "15g"},
+      {"herb": "没药", "role": "加减", "dose_range": "10g"},
+      {"herb": "甘草", "role": "使药", "dose_range": "9g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "一诊一得录，腰痛伴下肢乏力医案二仙汤加减"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "临床医案",
+        "sample_size": "1例",
+        "population": "肾虚夹瘀、肾阴阳两虚偏阳虚型腰痛合并骨密度降低患者",
+        "duration": "数周",
+        "main_outcomes": ["腰痛", "下肢乏力", "畏寒", "失眠", "刺痛"],
+        "result_summary": "医案记录复诊腰痛减轻，步履较前轻松，胸闷、心烦、失眠、口干、怕冷及四肢不温改善，继续治疗后腰痛基本消失。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，适用于肾虚夹瘀、肾中阴阳俱虚而以阳虚为主者。含温热补阳药及活血止痛药，阴虚火旺、实热、出血倾向或孕妇慎用。",
+    "references": [],
+    "text_description": "二仙汤加减为一诊一得录腰痛伴下肢乏力医案中的经验方，治以温肾滋阴、调衡阴阳、活血止痛。适用于腰痛酸软重痛夹刺痛、喜揉喜按、腰膝无力、劳后加重、卧则减轻、怕冷、手足不温、少气乏力、舌暗红少苔、舌下络脉瘀紫曲张等表现。方中仙茅、淫羊藿温肾壮阳为君，巴戟天、补骨脂、杜仲、肉桂温补肾阳，熟地黄、山茱萸滋补肾精，当归养血，黄柏、知母滋阴清虚热，延胡索、川芎、没药活血止痛，白术健脾，甘草调和诸药。"
+  },
+  {
+    "formula_id": "F020",
+    "name": "二仙坚骨汤加味",
+    "indication_syndrome": ["S3"],
+    "composition": [
+      {"herb": "仙茅", "role": "君药", "dose_range": "12g"},
+      {"herb": "淫羊藿", "role": "君药", "dose_range": "12g"},
+      {"herb": "当归", "role": "臣药", "dose_range": "15g"},
+      {"herb": "知母", "role": "佐药", "dose_range": "9g"},
+      {"herb": "黄柏", "role": "佐药", "dose_range": "6g"},
+      {"herb": "巴戟天", "role": "臣药", "dose_range": "9g"},
+      {"herb": "黄芪", "role": "臣药", "dose_range": "30g"},
+      {"herb": "熟地黄", "role": "臣药", "dose_range": "24g"},
+      {"herb": "自然铜", "role": "佐药", "dose_range": "24g"},
+      {"herb": "龙骨", "role": "佐药", "dose_range": "24g，先煎"},
+      {"herb": "牡蛎", "role": "佐药", "dose_range": "24g，先煎"},
+      {"herb": "鸡内金", "role": "佐药", "dose_range": "9g"},
+      {"herb": "鹿角胶", "role": "佐药", "dose_range": "12g"},
+      {"herb": "肉豆蔻", "role": "使药", "dose_range": "6g，后下"},
+      {"herb": "续断", "role": "加减", "dose_range": "经验剂量"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "张有贵骨质疏松医案，二仙坚骨汤加味"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "名医医案",
+        "sample_size": "1例",
+        "population": "脾肾阳虚型骨质疏松患者",
+        "duration": "约1个月以上",
+        "main_outcomes": ["腰背酸冷疼痛", "下肢麻木", "畏寒肢冷", "眩晕耳鸣", "活动能力"],
+        "result_summary": "医案记录二诊腰背酸冷疼痛减轻，三诊腰背部酸冷疼痛及下肢麻木基本消失，活动接近正常。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，适用于脾肾阳虚、腰背酸冷疼痛、畏寒肢冷、便溏、小便清长者。含温热补阳药及矿物药，需辨证使用。",
+    "references": [],
+    "text_description": "二仙坚骨汤加味为张有贵医案中治疗骨质疏松脾肾阳虚证的经验方，功效为补肾益脾、强筋壮骨。适用于腰部酸冷疼痛、引背彻骶、下肢麻木、弯腰欠利、眩晕耳鸣、四肢欠温、纳谷不馨、大便溏薄、小便清长、舌淡胖苔薄、脉沉细等表现。方中仙茅、淫羊藿、巴戟天温补肾阳，熟地黄、鹿角胶填精益髓，黄芪益气健脾，当归养血，知母、黄柏滋阴降火以制温燥，自然铜、龙骨、牡蛎助强骨潜镇，鸡内金健运脾胃，肉豆蔻温中止泻，续断补肝肾、强筋骨。"
+  },
+  {
+    "formula_id": "F021",
+    "name": "益肾填精补气活血方",
+    "indication_syndrome": ["S1", "S2", "S4"],
+    "composition": [
+      {"herb": "补骨脂", "role": "君药", "dose_range": "10g"},
+      {"herb": "骨碎补", "role": "君药", "dose_range": "10g"},
+      {"herb": "淫羊藿", "role": "臣药", "dose_range": "12g"},
+      {"herb": "鸡血藤", "role": "臣药", "dose_range": "30g"},
+      {"herb": "枸杞子", "role": "佐药", "dose_range": "12g"},
+      {"herb": "女贞子", "role": "佐药", "dose_range": "15g"},
+      {"herb": "当归", "role": "佐药", "dose_range": "15g"},
+      {"herb": "生地黄", "role": "佐药", "dose_range": "12g"},
+      {"herb": "白芍", "role": "佐药", "dose_range": "20g"},
+      {"herb": "丹参", "role": "佐药", "dose_range": "15g"},
+      {"herb": "青蒿", "role": "佐药", "dose_range": "9g"},
+      {"herb": "鳖甲", "role": "佐药", "dose_range": "20g，先煎"},
+      {"herb": "知母", "role": "佐药", "dose_range": "12g"},
+      {"herb": "黄芪", "role": "佐药", "dose_range": "20g"},
+      {"herb": "白术", "role": "佐药", "dose_range": "12g"},
+      {"herb": "太子参", "role": "佐药", "dose_range": "15g"},
+      {"herb": "茯苓", "role": "佐药", "dose_range": "12g"},
+      {"herb": "甘草", "role": "使药", "dose_range": "10g"},
+      {"herb": "酸枣仁", "role": "加减", "dose_range": "15g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "黄曙昭骨痿医案，益肾填精、滋阴清热、补益气血、活血通络方"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "名医医案",
+        "sample_size": "1例",
+        "population": "绝经后骨质疏松、肾精虚兼气血虚患者",
+        "duration": "多次复诊观察",
+        "main_outcomes": ["腰背酸痛", "四肢酸痛", "痿软无力", "睡眠"],
+        "result_summary": "医案以益肾填精、滋阴清热、补益气血、活血通络为法，多诊加减治疗并配合降钙素及生活方式干预。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，适用于肾精亏虚兼气血虚、夹阴虚内热及瘀阻者。证型复合，知识库中可作为肾阳虚、肝肾阴虚、肾虚血瘀的候选经验方，实际应用需结合寒热虚实加减。",
+    "references": [],
+    "text_description": "益肾填精补气活血方为黄曙昭骨痿医案经验方，治法为益肾填精、滋阴清热、补益气血、活血通络。适用于绝经后骨质疏松，症见反复腰背酸痛、畏寒肢冷、遇冷加重、劳累后加剧、四肢酸痛痿软无力、舌质红有齿痕、苔薄白、脉沉细等。方中补骨脂、骨碎补、淫羊藿补肾强骨，枸杞子、女贞子、生地黄、鳖甲滋补肝肾，青蒿、知母清虚热，黄芪、太子参、白术、茯苓、甘草补益气脾，鸡血藤、当归、丹参、白芍养血活血通络，酸枣仁用于睡眠欠佳。"
+  },
+  {
+    "formula_id": "F022",
+    "name": "补益肝肾活血利水方",
+    "indication_syndrome": ["S1", "S2", "S4"],
+    "composition": [
+      {"herb": "山茱萸", "role": "臣药", "dose_range": "10g"},
+      {"herb": "女贞子", "role": "臣药", "dose_range": "15g"},
+      {"herb": "茯苓", "role": "佐药", "dose_range": "30g"},
+      {"herb": "白术", "role": "佐药", "dose_range": "15g"},
+      {"herb": "苍术", "role": "佐药", "dose_range": "15g"},
+      {"herb": "泽泻", "role": "佐药", "dose_range": "30g"},
+      {"herb": "赤芍", "role": "佐药", "dose_range": "15g"},
+      {"herb": "牡丹皮", "role": "佐药", "dose_range": "15g"},
+      {"herb": "桃仁", "role": "佐药", "dose_range": "10g"},
+      {"herb": "丹参", "role": "佐药", "dose_range": "20g"},
+      {"herb": "三棱", "role": "佐药", "dose_range": "10g"},
+      {"herb": "莪术", "role": "佐药", "dose_range": "10g"},
+      {"herb": "当归", "role": "佐药", "dose_range": "15g"},
+      {"herb": "熟地黄", "role": "君药", "dose_range": "10g"},
+      {"herb": "延胡索", "role": "佐药", "dose_range": "10g"},
+      {"herb": "菖蒲", "role": "佐药", "dose_range": "10g"},
+      {"herb": "川芎", "role": "佐药", "dose_range": "15g"},
+      {"herb": "黄芪", "role": "佐药", "dose_range": "30g"},
+      {"herb": "党参", "role": "佐药", "dose_range": "30g"},
+      {"herb": "五味子", "role": "佐药", "dose_range": "15g"},
+      {"herb": "独活", "role": "佐药", "dose_range": "10g"},
+      {"herb": "白芷", "role": "佐药", "dose_range": "20g"},
+      {"herb": "麦冬", "role": "佐药", "dose_range": "30g"},
+      {"herb": "羌活", "role": "佐药", "dose_range": "10g"},
+      {"herb": "郁金", "role": "佐药", "dose_range": "10g"},
+      {"herb": "甘草", "role": "使药", "dose_range": "20g"},
+      {"herb": "蒲公英", "role": "加减", "dose_range": "30g"},
+      {"herb": "地丁", "role": "加减", "dose_range": "30g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "朱云龙补益肝肾治疗腰痛医案"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "名医医案",
+        "sample_size": "1例",
+        "population": "腰椎滑脱症合并骨质疏松症、肝肾不足患者",
+        "duration": "复诊观察",
+        "main_outcomes": ["腰痛", "间歇性跛行", "下肢放射痛"],
+        "result_summary": "医案认为高龄患者多病共存，以整体辨证论治，采用补益肝肾、强筋健骨并活血利水通络之法。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，患者合并腰椎滑脱、严重椎管狭窄和骨质疏松，不宜作为单纯骨质疏松方剂证据。方中活血破瘀药较多，孕妇、出血倾向及抗凝治疗者慎用。",
+    "references": [],
+    "text_description": "补益肝肾活血利水方为朱云龙补益肝肾治疗腰痛医案中的经验方，适用于高龄肝肾不足、肾阳不足、血瘀水泛并见腰椎退变或骨质疏松者。症见腰痛、间歇性跛行、下肢放射痛、行走距离缩短、舌淡胖、苔白滑等。方中熟地黄、山茱萸、女贞子补益肝肾，黄芪、党参、白术、茯苓益气健脾，苍术、泽泻利水化湿，赤芍、牡丹皮、桃仁、丹参、三棱、莪术、当归、川芎、郁金活血化瘀，延胡索止痛，羌活、独活、白芷通络止痛，菖蒲开窍醒神，麦冬、五味子养阴敛阴，甘草调和诸药。"
+  },
+  {
+    "formula_id": "F023",
+    "name": "补肾健脾益气养血方",
+    "indication_syndrome": ["S3", "S5"],
+    "composition": [
+      {"herb": "肉苁蓉", "role": "君药", "dose_range": "10g"},
+      {"herb": "熟地黄", "role": "君药", "dose_range": "10g"},
+      {"herb": "淫羊藿", "role": "臣药", "dose_range": "10g"},
+      {"herb": "续断", "role": "臣药", "dose_range": "10g"},
+      {"herb": "牛膝", "role": "臣药", "dose_range": "10g"},
+      {"herb": "菟丝子", "role": "臣药", "dose_range": "10g"},
+      {"herb": "白术", "role": "佐药", "dose_range": "10g"},
+      {"herb": "茯苓", "role": "佐药", "dose_range": "10g"},
+      {"herb": "桑寄生", "role": "佐药", "dose_range": "10g"},
+      {"herb": "延胡索", "role": "佐药", "dose_range": "12g"},
+      {"herb": "陈皮", "role": "加减", "dose_range": "10g"},
+      {"herb": "甘草", "role": "使药", "dose_range": "6g"}
+    ],
+    "classical_source": {
+      "type": "modern_experience_formula",
+      "source": "许建安骨质疏松症证候调理医案"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_case_report",
+        "reference_id": null,
+        "study_design": "临床医案",
+        "sample_size": "1例",
+        "population": "骨质疏松症脾肾阳虚或肾虚兼脾虚患者",
+        "duration": "约6周以上",
+        "main_outcomes": ["腰背部疼痛", "活动欠利", "放射痛"],
+        "result_summary": "医案记录多次复诊后腰背部疼痛好转至不明显，活动可，双下肢无放射痛。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "经验方，来自许建安伤科医案，治以补肾健脾、益气养血。适用于骨质疏松症肾虚兼脾虚或脾肾阳虚表现较轻者。",
+    "references": [],
+    "text_description": "补肾健脾益气养血方为许建安骨质疏松症医案中的经验方，治法为补肾健脾、益气养血。适用于腰背部疼痛、活动欠利、骨量减少或骨质疏松、肾精乏源、骨骼失养，兼见脾虚气血不足者。方中肉苁蓉、淫羊藿温补肾阳，熟地黄滋肾填精，续断、牛膝、菟丝子、桑寄生补肝肾、强筋骨，白术、茯苓健脾益气，延胡索活血止痛，陈皮理气和中，甘草调和诸药。"
+  },
+  {
+    "formula_id": "F024",
+    "name": "桃红四物汤 / 桃红四物汤加减",
+    "indication_syndrome": ["S6"],
+    "composition": [
+      {"herb": "熟地黄", "role": "君药", "dose_range": "15g"},
+      {"herb": "白芍", "role": "臣药", "dose_range": "10g（原始处方：杭白芍）"},
+      {"herb": "当归", "role": "臣药", "dose_range": "10g"},
+      {"herb": "川芎", "role": "臣药", "dose_range": "10g"},
+      {"herb": "红花", "role": "佐药", "dose_range": "10g"},
+      {"herb": "桃仁", "role": "佐药", "dose_range": "10g"}
+    ],
+    "classical_source": {
+      "type": "classical_formula_clinically_validated",
+      "source": "桃红四物汤为四物汤加桃仁、红花化裁，用于血瘀气滞或瘀血阻络疼痛证候；本条目依据骨质疏松相关临床观察和网络药理学研究补入。"
+    },
+    "modern_evidence": [
+      {
+        "evidence_type": "clinical_observational_study",
+        "reference_id": "REF022",
+        "study_design": "临床观察",
+        "sample_size": "原文待核对",
+        "population": "血虚夹瘀型老年骨质疏松性椎体压缩骨折患者",
+        "duration": "原文待核对",
+        "main_outcomes": ["骨质疏松性椎体压缩骨折", "血虚夹瘀相关症状", "临床疗效"],
+        "result_summary": "临床观察提示，桃红四物汤联合经皮椎体成形术可用于血虚夹瘀型老年骨质疏松性椎体压缩骨折的治疗观察。",
+        "pmid": null,
+        "doi": null
+      },
+      {
+        "evidence_type": "network_pharmacology_and_molecular_docking",
+        "reference_id": "REF023",
+        "study_design": "网络药理学与分子对接研究",
+        "sample_size": null,
+        "population": "骨折与骨质疏松相关异病同治机制研究",
+        "duration": null,
+        "main_outcomes": ["活性成分", "候选靶点", "通路富集", "分子对接"],
+        "result_summary": "网络药理学和分子对接研究提示，桃红四物汤可能通过多成分、多靶点和多通路参与骨折与骨质疏松相关病理过程。",
+        "pmid": null,
+        "doi": null
+      }
+    ],
+    "notes": "本条目用于血瘀气滞证（S6）骨质疏松相关处方评价。杭白芍在药味标准化中归一为白芍；核心药味靶点沿用现有 herbs.json 中熟地黄、白芍、当归、川芎、红花、桃仁的 OP 相关靶点记录。孕妇、月经过多、出血倾向或合并抗凝/抗血小板治疗者慎用。",
+    "references": ["REF022", "REF023"],
+    "text_description": "桃红四物汤是在四物汤养血和血基础上加入桃仁、红花以增强活血化瘀、行滞止痛作用的经典化裁方。本知识库条目对应血瘀气滞证骨质疏松相关方案评价，处方由熟地黄、白芍（原始处方杭白芍）、当归、川芎、红花、桃仁组成。方中熟地黄滋阴补血、益精填髓为君，白芍养血柔肝，当归补血活血，川芎行气活血止痛为臣，桃仁、红花活血祛瘀、通络止痛为佐。临床观察和网络药理学研究均提示桃红四物汤在骨质疏松相关骨折、瘀血阻络和骨代谢相关机制中具有研究依据，适合作为血瘀气滞型骨质疏松医师处方的标准化匹配方剂。"
+  }
+]

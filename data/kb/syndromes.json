@@ -1,0 +1,104 @@
+[
+  {
+    "syndrome_id": "S1",
+    "name": "肾阳虚证",
+    "core_symptoms": ["腰膝酸软", "畏寒肢冷", "腰背冷痛"],
+    "secondary_symptoms": ["驼背弯腰", "活动受限", "畏寒喜暖", "遇冷加重", "小便频数", "大便久泄", "腰以下浮肿"],
+    "tongue": "舌淡、苔白",
+    "pulse": "脉沉细或沉弦",
+    "references": ["REF001", "REF002", "REF005", "REF007"],
+    "source_refs": {
+      "core_symptoms": ["REF001", "REF002", "REF005", "REF007"],
+      "secondary_symptoms": ["REF002", "REF007"],
+      "tongue": ["REF001", "REF002", "REF007"],
+      "pulse": ["REF001", "REF005", "REF007"],
+      "text_description": ["REF001", "REF002", "REF005", "REF007"]
+    },
+    "text_description": "肾阳虚证是原发性骨质疏松症的主要证型之一，病机为肾阳亏虚、骨失温煦。肾为先天之本，主骨生髓，肾阳不足则温煦无力，骨骼失养而致骨质疏松。临床主要表现为腰膝酸软无力、畏寒肢冷明显、腰背部冷痛喜温，遇冷症状加重，尤其下肢更为显著。患者常伴驼背弯腰、活动受限、小便频数、夜尿增多或大便久泄，严重者可见腰以下浮肿。舌淡苔白，脉沉细或沉弦。"
+  },
+  {
+    "syndrome_id": "S2",
+    "name": "肝肾阴虚证",
+    "core_symptoms": ["腰膝酸痛", "膝软无力", "下肢抽筋"],
+    "secondary_symptoms": ["五心烦热", "眩晕耳鸣", "失眠多梦", "潮热盗汗", "口干咽燥"],
+    "tongue": "舌红少津、少苔或无苔",
+    "pulse": "脉沉细数或弦细",
+    "references": ["REF001", "REF003", "REF004", "REF007"],
+    "source_refs": {
+      "core_symptoms": ["REF003", "REF007"],
+      "secondary_symptoms": ["REF003", "REF004", "REF007"],
+      "tongue": ["REF003", "REF004", "REF007"],
+      "pulse": ["REF003", "REF007"],
+      "text_description": ["REF001", "REF003", "REF004", "REF007"]
+    },
+    "text_description": "肝肾阴虚证是原发性骨质疏松症的常见证型，病机为肝肾阴亏、精血不足，骨失濡养。肝藏血、肾藏精，精血同源，阴虚则无以濡养筋骨，导致骨痿不用。临床主要表现为腰膝酸痛绵绵、膝软无力、下肢时有抽筋，常伴五心烦热、眩晕耳鸣、失眠多梦、潮热盗汗，部分患者可见口干咽燥。舌红少津、少苔或无苔，脉沉细数或弦细。"
+  },
+  {
+    "syndrome_id": "S3",
+    "name": "脾肾阳虚证",
+    "core_symptoms": ["腰膝冷痛", "食少便溏", "畏寒肢冷"],
+    "secondary_symptoms": ["腰膝酸软", "双膝行走无力", "弯腰驼背", "面色㿠白", "腹胀", "久泄不止"],
+    "tongue": "舌淡胖、苔白滑",
+    "pulse": "脉沉迟无力或沉细弱",
+    "references": ["REF001", "REF004", "REF007", "REF008"],
+    "source_refs": {
+      "core_symptoms": ["REF007", "REF008"],
+      "secondary_symptoms": ["REF007", "REF008"],
+      "tongue": ["REF007", "REF008"],
+      "pulse": ["REF007", "REF008"],
+      "text_description": ["REF001", "REF007", "REF008"]
+    },
+    "text_description": "脾肾阳虚证的病机为脾肾阳气亏虚，温煦、运化无力，筋骨失养。肾为先天之本，脾为后天之本，阳气不足则骨失温养、肉失濡润，发为骨痿。临床以腰膝冷痛、食少便溏、畏寒肢冷为核心表现，常伴腰膝酸软、双膝行走无力、弯腰驼背、面色㿠白、腹胀、久泄不止等症。舌淡胖、苔白滑，脉沉迟无力或沉细弱。"
+  },
+  {
+    "syndrome_id": "S4",
+    "name": "肾虚血瘀证",
+    "core_symptoms": ["腰背周身痛", "痛有定处拒按", "腰膝酸软"],
+    "secondary_symptoms": ["筋肉挛缩", "下肢活动不利", "既往外伤或久病史", "面色晦暗"],
+    "tongue": "舌质紫暗，或有瘀点瘀斑",
+    "pulse": "脉涩或弦涩",
+    "references": ["REF001", "REF004", "REF006", "REF007"],
+    "source_refs": {
+      "core_symptoms": ["REF001", "REF007"],
+      "secondary_symptoms": ["REF004", "REF006", "REF007"],
+      "tongue": ["REF006", "REF007"],
+      "pulse": ["REF006", "REF007"],
+      "text_description": ["REF004", "REF006", "REF007"]
+    },
+    "text_description": "肾虚血瘀证的病机为肾虚为本，血瘀为标，肾虚则骨失濡养，瘀血阻滞则脉络不通，不通则痛。临床多表现为腰背周身疼痛，痛有定处且拒按，伴腰膝酸软、筋肉挛缩、下肢活动不利。患者多有外伤史、久病史或长期劳损史，面色常晦暗无华。舌质紫暗，或有瘀点瘀斑，脉象多为涩脉或弦涩。"
+  },
+  {
+    "syndrome_id": "S5",
+    "name": "脾胃虚弱证",
+    "core_symptoms": ["腰背酸痛", "体瘦肌弱", "食少纳呆"],
+    "secondary_symptoms": ["神疲倦怠", "大便溏泄", "面色萎黄", "少气懒言", "肌肉瘦削"],
+    "tongue": "舌质淡、苔白",
+    "pulse": "脉细弱",
+    "references": ["REF001", "REF004", "REF007"],
+    "source_refs": {
+      "core_symptoms": ["REF004", "REF007"],
+      "secondary_symptoms": ["REF001", "REF004", "REF007"],
+      "tongue": ["REF007"],
+      "pulse": ["REF007"],
+      "text_description": ["REF001", "REF004", "REF007"]
+    },
+    "text_description": "脾胃虚弱证的病机为脾胃运化失常，气血生化不足，筋骨失于濡养。脾胃为后天之本，气血生化之源，脾虚则气血亏虚，不能濡养筋骨肌肉，日久发为骨痿。临床以腰背酸痛、体瘦肌弱、食少纳呆为主要表现，常伴神疲倦怠、大便溏泄、面色萎黄、少气懒言、肌肉瘦削等症。舌质淡、苔白，脉细弱。"
+  },
+  {
+    "syndrome_id": "S6",
+    "name": "血瘀气滞证",
+    "core_symptoms": ["骨节疼痛", "痛有定处", "痛处拒按"],
+    "secondary_symptoms": ["筋肉挛缩", "转侧不利", "日轻夜重", "多有外伤或久病史", "面色晦暗"],
+    "tongue": "舌质紫暗，或有瘀点瘀斑",
+    "pulse": "脉涩或弦",
+    "references": ["REF001", "REF006", "REF007", "REF008"],
+    "source_refs": {
+      "core_symptoms": ["REF007"],
+      "secondary_symptoms": ["REF006", "REF007"],
+      "tongue": ["REF007", "REF008"],
+      "pulse": ["REF007", "REF008"],
+      "text_description": ["REF001", "REF006", "REF007", "REF008"]
+    },
+    "text_description": "气滞血瘀证的病机为气机阻滞，瘀血内停，筋骨脉络不通，不通则痛。气机不畅则血行瘀滞，瘀血阻滞则筋骨失养，发为骨痛。临床主要表现为骨节疼痛、痛有定处、痛处拒按，伴筋肉挛缩、转侧不利、疼痛日轻夜重。患者多有外伤史、久病史或长期情志不畅史，面色常晦暗无华。舌质紫暗或有瘀点瘀斑，脉涩或弦。"
+  }
+]
